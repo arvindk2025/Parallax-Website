@@ -2,10 +2,11 @@
 
 ## Overview
 The Parallax Website is a web project that showcases the parallax scrolling effect, creating an engaging and immersive user experience. This project demonstrates how to use HTML, CSS, and JavaScript to implement a parallax effect that creates the illusion of depth in the web page.
+![Parallax Website](./assets2/image_1.png?raw=true "Parallax Website")
 
 ## Screenshots
 
-![Parallax Website Screenshot](./screenshots/parallax-website.png)
+![Parallax Website](./assets2/image_2.png?raw=true "Parallax Website")
 
 ## Technologies Used
 
