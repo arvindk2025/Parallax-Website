@@ -11,12 +11,12 @@ The Parallax Website is a web project that showcases the parallax scrolling effe
 
 ![Parallax Website](./assets/image_1.png?raw=true "Parallax Website")
 
-## Technologies Used :- =>
+## Technologies Used :-
 
 - HTML
 - CSS
 
-## Getting Started :- =>
+## Getting Started :- 
 
 ### Prerequisites
 
